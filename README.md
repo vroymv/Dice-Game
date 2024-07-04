@@ -67,7 +67,7 @@ copy the path name to the index.html file and paste in your browser
 
 ## <a name="links">🔗 Links</a>
 
-Live Website can be found here:(https://vroymv.github.io/Tin-Dog/)
+Live Website can be found here:(https://vroymv.github.io/Dice-Game/)
 
 ## <a name="more">🚀 More</a>
 
